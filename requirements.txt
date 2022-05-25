@@ -9,7 +9,7 @@ idna==2.8
 Pillow==6.1.0
 psycopg2==2.8.1
 pyblake2==1.1.2
-PyJWT==1.7.1
+PyJWT==2.4.0
 python-axolotl-curve25519==0.4.1.post2
 pytz==2019.1
 PyWaves==0.8.24
